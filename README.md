@@ -1,2 +1,6 @@
-# 11.g-programmesana
- Repozitorijs priekš programmēšanas stundas
+# 11.g-programmēšana
+ Repozitorijs priekš programmēšanas stundām
+ 
+
+
+weebyoo
