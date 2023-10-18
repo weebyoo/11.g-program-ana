@@ -1,2 +1,2 @@
-# 11.g-program-ana
+# 11.g-programmesana
  Repozitorijs priekš programmēšanas stundas
