@@ -6,3 +6,5 @@
 weebyoo
 Deivijs
 max1mss
+nartsa06
+prieditiso
